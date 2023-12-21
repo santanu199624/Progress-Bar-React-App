@@ -1,10 +1,11 @@
 
 import './App.css';
+import ProgressBar from './component/ProgressBar';
 
 function App() {
   return (
     <div className="App">
-      progressbar
+      <ProgressBar />
     </div>
   );
 }
